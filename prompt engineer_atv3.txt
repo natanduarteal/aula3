@@ -1,0 +1,45 @@
+# Atividade 3 – Criação de prompt profissional
+
+## Objetivo
+
+Aplicar o **framework COSTAR**.
+
+### Situação
+
+Uma escola deseja divulgar cursos de tecnologia.
+
+### Tarefa
+
+Crie um prompt utilizando COSTAR para pedir à IA:
+
+- uma campanha de divulgação
+- voltada para jovens
+- com linguagem simples
+- em formato de texto para redes sociais
+
+#--------------
+
+Contexto:
+Uma escola de tecnologia quer lançar e divulgar seus novos cursos de formação tecnológica. O mercado está competitivo e precisamos atrair a atenção de pessoas que estão decidindo seus primeiros passos profissionais.
+
+Objetivo:
+Criar uma campanha de divulgação para redes sociais (como Instagram e TikTok) composta por 3 variações de posts em texto. O foco é mostrar como a tecnologia é acessível e abre portas para o futuro.
+
+Estilo:
+Textos curtos, dinâmicos e adaptados para o formato de redes sociais. Utilize quebras de linha para facilitar a leitura, emojis que façam sentido com o universo tech/jovem e chame para a ação (CTAs) claras ao final de cada post.
+
+Tom:
+Entusiasta, jovem, acolhedor e direto. Evite termos técnicos complexos (jargões) ou uma linguagem excessivamente corporativa/formal. Deve soar como um amigo dando um spoiler de uma oportunidade incrível.
+
+Audiência:
+Jovens (adolescentes e jovens adultos) que passam bastante tempo nas redes sociais, têm interesse por tecnologia, games ou internet, mas que acham que programação ou TI é algo "difícil demais" ou "só para gênios".
+
+Resposta:
+Por favor, forneça:
+
+Post 1: Focado em quebrar o mito de que tecnologia é difícil.
+
+Post 2: Focado nos benefícios de carreira (conseguir um bom job rápido).
+
+Post 3: Um formato de "lista" ou "curiosidade" (ex: 3 motivos para começar na TI hoje).
+Inclua sugestões de hashtags (#) estratégicas para cada um deles.

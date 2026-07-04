@@ -1,0 +1,19 @@
+# Atividade 4 – Avaliação crítica
+
+## Objetivo
+
+Desenvolver pensamento crítico sobre prompts.
+
+### Pergunta
+
+Responda:
+
+1. Qual estrutura gera respostas mais completas?
+COSTAR, porque tem seu prompt mais detalhado e estruturado.
+
+2. Em quais situações um prompt simples é suficiente?
+Em pesquisas cotidianas, que não precisam de respostas muito elaboradas
+
+3. Quando é melhor utilizar COSTAR?
+Em ambiente e aplicações profissionais , que necessitam de uma complexidade mais alta.
+
